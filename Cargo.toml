@@ -1,0 +1,11 @@
+[package]
+name = "tasky"
+version = "0.1.0"
+authors = ["tisd"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "tasky"
+path = "main.rs"
