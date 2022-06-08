@@ -1,1 +1,0 @@
-Simple Linux task manager
